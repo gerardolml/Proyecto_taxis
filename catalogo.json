@@ -1,0 +1,8 @@
+{"VendorID":{"1":"Creative Mobile Technologies","2":"VeriFone Inc"},
+"RatecodeID":{"1":"Standard rate","2":"JFK","3":"Newark","4":"Nassau or Westchester",
+"5":"Negotiated fare","6":"Group ride"},
+"store_and_fwd_flag":{"Y":"store and forward trip",
+"N":"not a store and forward trip"},
+"payment_type":{"1":"Credit card","2":"Cash","3":"No charge",
+"4":"Dispute","5":"Unknown","6":"Voided trip"}
+}
